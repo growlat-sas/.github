@@ -7,6 +7,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Bogotá, Colo
 
 ## Guías
 
+- [Página web para colegios privados y jardines infantiles en Bogotá y la Sabana: qué debe tener y cuánto cuesta](https://growlat.org/guias/pagina-web-colegio-jardin-infantil-bogota/)
 - [Chatbot para tu página web en Colombia: precio, qué incluye y cuándo conviene](https://growlat.org/guias/chatbot-para-pagina-web-colombia/)
 - [Sistema de reservas en línea para tu negocio en Colombia: precio y cómo funciona](https://growlat.org/guias/sistema-reservas-en-linea-negocio-colombia/)
 - [Cuánto cuesta una página web para un negocio en Colombia (2026)](https://growlat.org/guias/cuanto-cuesta-pagina-web-negocio-colombia/)
