@@ -7,6 +7,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Bogotá, Colo
 
 ## Guías
 
+- [Agente de WhatsApp para ferreterías y depósitos de materiales en Bogotá: cotizaciones, pedidos y precio](https://growlat.org/guias/agente-whatsapp-ferreteria-bogota/)
 - [Agente de WhatsApp para consultorios odontológicos y clínicas en Bogotá: citas, recordatorios y precio](https://growlat.org/guias/agente-whatsapp-consultorio-odontologico-bogota/)
 - [Agente de WhatsApp para conjuntos residenciales y administradores en Bogotá](https://growlat.org/guias/agente-whatsapp-conjunto-residencial-bogota/)
 - [Página web para colegios privados y jardines infantiles en Bogotá y la Sabana: qué debe tener y cuánto cuesta](https://growlat.org/guias/pagina-web-colegio-jardin-infantil-bogota/)
