@@ -8,6 +8,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Bogotá, Colo
 ## Guías
 
 - [Agente de WhatsApp para panaderías y pastelerías en Bogotá: pedidos de tortas, domicilios y precio](https://growlat.org/guias/agente-whatsapp-panaderia-pasteleria-bogota/)
+- [Agente de WhatsApp para talleres mecánicos y servitecas en Bogotá: citas, cotizaciones y precio](https://growlat.org/guias/agente-whatsapp-taller-mecanico-bogota/)
 - [Agente de WhatsApp para veterinarias en Bogotá: citas, vacunas, urgencias y precio](https://growlat.org/guias/agente-whatsapp-veterinaria-bogota/)
 - [Agente de WhatsApp para peluquerías y barberías en Bogotá: citas, recordatorios y precio](https://growlat.org/guias/agente-whatsapp-peluqueria-barberia-bogota/)
 - [Agente de WhatsApp para ferreterías y depósitos de materiales en Bogotá: cotizaciones, pedidos y precio](https://growlat.org/guias/agente-whatsapp-ferreteria-bogota/)
