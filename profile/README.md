@@ -7,6 +7,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Bogotá, Colo
 
 ## Guías
 
+- [Cómo automatizar los reportes de Excel de tu empresa en Colombia](https://growlat.org/guias/automatizar-reportes-excel-empresa-colombia/)
 - [Cómo evaluar una demo de agente de IA para tu negocio en Colombia](https://growlat.org/guias/como-evaluar-demo-agente-ia-negocio-colombia/)
 
 - [Agente de WhatsApp para escuelas de conducción en Bogotá: cursos, horarios y precio](https://growlat.org/guias/agente-whatsapp-escuela-conduccion-bogota/)
