@@ -1,9 +1,19 @@
 # GROWLAT S.A.S.
 
-Software a la medida, apps móviles y agentes de IA para negocios. Bogotá, Colombia.
+Software a la medida, apps móviles y agentes de IA para negocios. Desde Bogotá, 100 % remoto para todo Colombia.
 
 - Sitio: [growlat.org](https://growlat.org)
 - Soluciones por sector: [growlat.org/soluciones](https://growlat.org/soluciones/)
+
+## Ciudades
+
+- [Páginas web, chatbots y agentes de IA en Bogotá](https://growlat.org/ciudades/bogota/)
+- [Páginas web, chatbots y agentes de IA en Medellín](https://growlat.org/ciudades/medellin/)
+- [Páginas web, chatbots y agentes de IA en Cali](https://growlat.org/ciudades/cali/)
+- [Páginas web, chatbots y agentes de IA en Barranquilla](https://growlat.org/ciudades/barranquilla/)
+- [Páginas web, chatbots y agentes de IA en Cartagena](https://growlat.org/ciudades/cartagena/)
+- [Páginas web, chatbots y agentes de IA en Bucaramanga](https://growlat.org/ciudades/bucaramanga/)
+- [Páginas web, chatbots y agentes de IA en Pereira](https://growlat.org/ciudades/pereira/)
 
 ## Guías
 
