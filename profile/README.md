@@ -16,6 +16,8 @@ Software a la medida, apps móviles y agentes de IA para negocios. Desde Bogotá
 - [Páginas web, chatbots y agentes de IA en Pereira](https://growlat.org/ciudades/pereira/)
 - [Páginas web, chatbots y agentes de IA en Manizales](https://growlat.org/ciudades/manizales/)
 - [Páginas web, chatbots y agentes de IA en Cúcuta](https://growlat.org/ciudades/cucuta/)
+- [Páginas web, chatbots y agentes de IA en Ibagué](https://growlat.org/ciudades/ibague/)
+- [Páginas web, chatbots y agentes de IA en Santa Marta](https://growlat.org/ciudades/santa-marta/)
 
 ## Guías
 
