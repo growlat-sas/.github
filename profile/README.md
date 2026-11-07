@@ -20,6 +20,8 @@ Software a la medida, apps móviles y agentes de IA para negocios. Desde Bogotá
 - [Páginas web, chatbots y agentes de IA en Santa Marta](https://growlat.org/ciudades/santa-marta/)
 - [Páginas web, chatbots y agentes de IA en Villavicencio](https://growlat.org/ciudades/villavicencio/)
 - [Páginas web, chatbots y agentes de IA en Neiva](https://growlat.org/ciudades/neiva/)
+- [Páginas web, chatbots y agentes de IA en Pasto](https://growlat.org/ciudades/pasto/)
+- [Páginas web, chatbots y agentes de IA en Armenia](https://growlat.org/ciudades/armenia/)
 
 ## Guías
 
