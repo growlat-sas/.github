@@ -22,6 +22,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Desde Bogotá
 - [Páginas web, chatbots y agentes de IA en Neiva](https://growlat.org/ciudades/neiva/)
 - [Páginas web, chatbots y agentes de IA en Pasto](https://growlat.org/ciudades/pasto/)
 - [Páginas web, chatbots y agentes de IA en Armenia](https://growlat.org/ciudades/armenia/)
+- [Páginas web, chatbots y agentes de IA en Montería](https://growlat.org/ciudades/monteria/)
 
 ## Guías
 
@@ -30,6 +31,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Desde Bogotá
 - [Agente de IA para responder solicitudes de cotización en empresas de Colombia](https://growlat.org/guias/agente-ia-cotizaciones-ventas-b2b-colombia/)
 - [Agente de IA para cartera y cobranza en empresas de Colombia](https://growlat.org/guias/agente-ia-cartera-cobranza-empresa-colombia/)
 - [Cuánto cuesta un software a la medida en Colombia en 2026](https://growlat.org/guias/cuanto-cuesta-software-a-la-medida-colombia/)
+- [¿Software a la medida o software de caja? Cómo decidir en Colombia](https://growlat.org/guias/software-a-la-medida-o-software-de-caja-colombia/)
 - [Cómo automatizar los reportes de Excel de tu empresa en Colombia](https://growlat.org/guias/automatizar-reportes-excel-empresa-colombia/)
 - [Cómo evaluar una demo de agente de IA para tu negocio en Colombia](https://growlat.org/guias/como-evaluar-demo-agente-ia-negocio-colombia/)
 
