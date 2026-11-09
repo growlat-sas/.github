@@ -26,6 +26,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Desde Bogotá
 
 ## Guías
 
+- [Cómo automatizar los pedidos por WhatsApp en distribuidoras y mayoristas de Colombia](https://growlat.org/guias/automatizar-pedidos-whatsapp-distribuidora-colombia/)
 - [Cómo automatizar la conciliación bancaria en una empresa en Colombia](https://growlat.org/guias/automatizar-conciliacion-bancaria-empresa-colombia/)
 - [Cómo automatizar la recepción de facturas de proveedores y las cuentas por pagar en Colombia](https://growlat.org/guias/automatizar-facturas-proveedores-cuentas-por-pagar-colombia/)
 - [Agente de IA para responder solicitudes de cotización en empresas de Colombia](https://growlat.org/guias/agente-ia-cotizaciones-ventas-b2b-colombia/)
