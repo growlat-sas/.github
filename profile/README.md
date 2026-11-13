@@ -27,6 +27,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Desde Bogotá
 ## Guías
 
 - [Cómo integrar Siigo o Alegra con tu tienda, tu CRM o tu sistema en Colombia](https://growlat.org/guias/integrar-siigo-alegra-tienda-crm-colombia/)
+- [Cómo automatizar cumplidos, remesas y RNDC en una empresa de transporte de carga](https://growlat.org/guias/automatizar-empresa-transporte-carga-rndc-colombia/)
 - [Cómo automatizar la selección de personal con IA en Colombia](https://growlat.org/guias/automatizar-seleccion-personal-con-ia-colombia/)
 - [Cómo automatizar los pedidos por WhatsApp en distribuidoras y mayoristas de Colombia](https://growlat.org/guias/automatizar-pedidos-whatsapp-distribuidora-colombia/)
 - [Cómo automatizar las PQRS con IA en tu empresa en Colombia](https://growlat.org/guias/automatizar-pqrs-con-ia-empresa-colombia/)
