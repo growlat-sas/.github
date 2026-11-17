@@ -30,6 +30,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Desde Bogotá
 - [Cómo automatizar cumplidos, remesas y RNDC en una empresa de transporte de carga](https://growlat.org/guias/automatizar-empresa-transporte-carga-rndc-colombia/)
 - [Cómo automatizar la debida diligencia SAGRILAFT de clientes y proveedores con IA](https://growlat.org/guias/automatizar-sagrilaft-debida-diligencia-con-ia-colombia/)
 - [Cómo automatizar el control de inventario de tu empresa con IA](https://growlat.org/guias/automatizar-control-inventario-con-ia-colombia/)
+- [Agente de IA para IPS y clínicas: citas, confirmaciones y autorizaciones](https://growlat.org/guias/agente-ia-ips-clinica-citas-colombia/)
 - [Agente de IA para inmobiliarias: arriendos, visitas e inquilinos](https://growlat.org/guias/agente-ia-inmobiliaria-arriendos-colombia/)
 - [Cómo automatizar la selección de personal con IA en Colombia](https://growlat.org/guias/automatizar-seleccion-personal-con-ia-colombia/)
 - [Cómo automatizar los pedidos por WhatsApp en distribuidoras y mayoristas de Colombia](https://growlat.org/guias/automatizar-pedidos-whatsapp-distribuidora-colombia/)
