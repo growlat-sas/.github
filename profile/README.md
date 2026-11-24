@@ -36,6 +36,7 @@ Software a la medida, apps móviles y agentes de IA para negocios. Desde Bogotá
 - [Agente de IA para constructoras y salas de ventas de vivienda nueva: tipologías, cuota inicial y citas](https://growlat.org/guias/agente-ia-constructora-sala-ventas-vivienda-colombia/)
 - [Agente de IA para concesionarios de carros y motos: versiones, crédito, retoma, prueba de manejo y citas de taller](https://growlat.org/guias/agente-ia-concesionario-carros-motos-colombia/)
 - [Agente de IA para hoteles en Colombia: reservas directas, huéspedes en español e inglés, grupos y eventos](https://growlat.org/guias/agente-ia-hotel-reservas-huespedes-colombia/)
+- [Agente de IA para firmas de abogados en Colombia: filtro de casos, agenda de consultas, documentos y estado de procesos](https://growlat.org/guias/agente-ia-firma-abogados-colombia/)
 - [Agente de IA para IPS y clínicas: citas, confirmaciones y autorizaciones](https://growlat.org/guias/agente-ia-ips-clinica-citas-colombia/)
 - [Agente de IA para inmobiliarias: arriendos, visitas e inquilinos](https://growlat.org/guias/agente-ia-inmobiliaria-arriendos-colombia/)
 - [Cómo automatizar la selección de personal con IA en Colombia](https://growlat.org/guias/automatizar-seleccion-personal-con-ia-colombia/)
